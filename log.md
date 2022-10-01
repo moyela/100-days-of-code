@@ -5,7 +5,7 @@
 
 **Today's Progress**: I made preparations to begin the 100 days of code challenge tomorrow. I hope I can be consistent for the next 100 days.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm doubtful that I will be consistent, but I'm excited about having this challenge to help focus me.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
