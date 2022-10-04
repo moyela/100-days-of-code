@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
 ### Day 0: 01 October 2022
-##### (delete me or comment me out)
 
 **Today's Progress**: I made preparations to begin the 100 days of code challenge tomorrow. I hope I can be consistent for the next 100 days.
 
 **Thoughts:** I'm doubtful that I will be consistent, but I'm excited about having this challenge to help focus me.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 0: 02 October 2022
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: I haven't started well. I had an incredibly busy day and wasn't able to get into the right headspace for work. It's an excuse, but I will o better.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Working on starting.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 0: 03 October 2022
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: I procastinated.
 
+**Thoughts:** Mentally banging my head against the wall.
 
-### Day 1: June 27, Monday
+### Day 1: 04 October 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Resuming progress on fullstackopen. Hope to make steady progress henceforth.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Getting better.
