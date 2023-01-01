@@ -23,3 +23,11 @@
 **Today's Progress**: Resuming progress on fullstackopen. Hope to make steady progress henceforth.
 
 **Thoughts:** Getting better.
+
+### Day 1: 01 January 2022
+
+**Today's Progress**: Restarting with the fullstackopen course and making plans for a consistent learning plan. I'm going to start working in a more dedicated manner this year, and this is a first step towards that.
+
+**Thoughts:** Focusing on the journey.
+
+
