@@ -30,9 +30,15 @@
 
 **Thoughts:** Focusing on the journey.
 
-### Day 1: 02 January 2022
+### Day 2: 02 January 2022
 
 **Today's Progress**: I set a roadmap for myself today. Started reading Grokking Algorithms and working on DSA.
 
 **Thoughts:** I'm going to put in more hours tomorrow and start learning Ruby syntax.
+
+### Day 3: 03 January 2022
+
+**Today's Progress**: I started learning Ruby today. Once I have a firm grasp of it, I'll move to writing scripts in it and solving DSA problems using it.
+
+**Thoughts:** I might have to put a pause on current work to finish up my final year project report.
 
