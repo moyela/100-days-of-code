@@ -42,3 +42,9 @@
 
 **Thoughts:** I might have to put a pause on current work to finish up my final year project report.
 
+### Day 4: 04 January 2022
+
+**Today's Progress**: Learning Ruby syntax: methods, variable scope
+
+**Thoughts:** Going to switch to a video-based format tomorrow.
+
